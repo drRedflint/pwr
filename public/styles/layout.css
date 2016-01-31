@@ -1,0 +1,27 @@
+body {
+	background-color: #ecf0f1;
+}
+.knapp {
+	background-color: #34495e;
+	border: 1px solid #fff;
+	color: #fff;
+	border-radius: 3px;
+	padding: 5px 10px;
+	margin-bottom: 10px;
+	display: block;
+	height: 25%;
+	width: 100%;
+	font-size: 2em;
+	cursor: pointer;
+}
+
+.on {
+	background-color: #3498db;
+}
+.kill {
+	background-color: #DB3453;
+}
+.wrap {
+	width: 100%;
+	height: 100%;
+}
